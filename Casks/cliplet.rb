@@ -1,6 +1,6 @@
 cask "cliplet" do
   version "0.2.0"
-  sha256 "9739b0822aa6a744c4eb57fc812e4753c6e43f83dd9dc44e0debece132f78bc4"
+  sha256 "4124693b282f612bb28fcb73c02657c5a86abdd73ddd9c2456c33f9ce34ca84c"
 
   url "https://github.com/eplugge/Cliplet/releases/download/v#{version}/Cliplet-#{version}.dmg"
   name "Cliplet"
